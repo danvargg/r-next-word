@@ -1,6 +1,6 @@
 ## Next Word Prediction
 
-![alt text](next_word.png)
+![alt text](next_word.PNG)
 
 ### The project
 
