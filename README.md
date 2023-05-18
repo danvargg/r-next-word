@@ -5,7 +5,7 @@
 https://img.shields.io/badge/ShinyApps-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue
 )
 
-![alt text](images/next_word.PNG)
+![alt text](https://github.com/danvargg/r-next-word/blob/main/images/next_word.PNG)
 
 ### The project
 
@@ -22,7 +22,7 @@ million lines** and **102.4 million words** in **799.5 Mbs**.
 
 Below, there is a visualization of how I processed the data to feed the prediction algorithm.
 
-![alt text](images/algflow.png)
+![alt text](https://github.com/danvargg/r-next-word/blob/main/images/algflow.png)
 
 ### The application
 
@@ -31,4 +31,4 @@ algorithm ([Brants et al 2007](http://www.cs.columbia.edu/~smaskey/CS6998-0412/s
 
 Below, there is a visualization of how the application works.
 
-![alt text](images/appflow.png)
+![alt text](https://github.com/danvargg/r-next-word/blob/main/images/appflow.png)
